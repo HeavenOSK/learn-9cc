@@ -10,8 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15569c0a-ad4f-4308-8114-dcec64e183c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9cc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test3.s" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Other File Types" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -61,15 +70,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577769060934</updated>
-      <workItem from="1577769063991" duration="2212000" />
+      <workItem from="1577769063991" duration="4844000" />
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="458" y="65" key="SettingsEditor" timestamp="1577770953245">
+    <state x="458" y="65" key="SettingsEditor" timestamp="1577786586489">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state x="458" y="65" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1577770953245" />
+    <state x="458" y="65" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1577786586489" />
     <state x="753" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1577769067821">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
