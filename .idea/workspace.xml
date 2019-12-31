@@ -10,17 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15569c0a-ad4f-4308-8114-dcec64e183c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/9cc.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test2.s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test3.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test3.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9cc" beforeDir="false" afterPath="$PROJECT_DIR$/9cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9cc.c" beforeDir="false" afterPath="$PROJECT_DIR$/9cc.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/test.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,9 +64,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577769060934</updated>
-      <workItem from="1577769063991" duration="4844000" />
+      <workItem from="1577769063991" duration="5452000" />
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="458" y="65" key="SettingsEditor" timestamp="1577786586489">
