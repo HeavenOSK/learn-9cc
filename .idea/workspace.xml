@@ -12,13 +12,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1a92e91-6d9d-4774-b7c8-f0087aac8dc3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/9cc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/9cc.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/9cc" beforeDir="false" afterPath="$PROJECT_DIR$/9cc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/9cc.c" beforeDir="false" afterPath="$PROJECT_DIR$/9cc.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actual" beforeDir="false" afterPath="$PROJECT_DIR$/actual" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp" beforeDir="false" afterPath="$PROJECT_DIR$/tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp.s" beforeDir="false" afterPath="$PROJECT_DIR$/tmp.s" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577817900865</updated>
-      <workItem from="1577817902103" duration="1050000" />
+      <workItem from="1577817902103" duration="5916000" />
     </task>
     <servers />
   </component>
